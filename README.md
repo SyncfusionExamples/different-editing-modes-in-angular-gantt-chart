@@ -1,0 +1,2 @@
+# different-editing-modes-in-angular-gantt-chart
+A quick-start project that shows how to enable editing in the Angular Gantt Chart component of Syncfusion. This project contains code snippets for performing cell, dialog, taskbar, and dependency editing in the component. Gantt component features are segregated into individual feature-wise modules. To use editing feature, inject the Edit module. To use a selection feature, inject the Selection module.
