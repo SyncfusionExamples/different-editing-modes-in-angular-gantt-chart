@@ -16,7 +16,7 @@
     "@angular/core": "~19.2.16",
     "@angular/forms": "~19.2.16",
     "@angular/platform-browser": "~19.2.16",
-    "@angular/platform-browser-dynamic": "~19.2s.16",
+    "@angular/platform-browser-dynamic": "~19.2.16",
     "@angular/router": "~19.2.16",
     "@syncfusion/ej2-angular-gantt": "^20.1.56",
     "rxjs": "~7.5.0",
